@@ -1,4 +1,4 @@
-public class addstudent {
+public class Addstudent {
     public String name(){
         return "stash changes";
     }
